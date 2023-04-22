@@ -1,8 +1,0 @@
-argparse==1.4.0
-pre-commit>=3.2.0
-python-dotenv==1.0.0
-sentence-transformers
-git+https://github.com/huggingface/transformers
-langchain>='0.0.100'
-faiss-cpu
-tiktoken
